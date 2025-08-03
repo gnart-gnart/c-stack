@@ -1,6 +1,8 @@
 #ifndef STACK_H
 #define STACK_H
 
-struct Stack;
+struct Stack {
+
+};
 
 #endif
